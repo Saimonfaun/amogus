@@ -1,4 +1,12 @@
 body{
     background-color: #637B51;
-    color: black;
+}
+
+.imagem-de-venda-do-boi{
+    position: fixed; left: 550px; top: 100px;
+    width: 40%;
+}
+
+.valor-do-boi{
+    position: fixed; left: 560px; top: 40px;
 }
