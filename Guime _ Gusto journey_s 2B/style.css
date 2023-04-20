@@ -10,3 +10,72 @@ body{
 .valor-do-boi{
     position: fixed; left: 560px; top: 40px;
 }
+
+.container{
+    position: fixed; left: 1320px; top: 40px;
+    width: 25%;
+    height: 74vh;
+    background-image: linear-gradient(to right, #1c00f2, #453f96);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+.chatbox{
+    background: #1d61c2;
+    width: 95%;
+    min-width: 250px;
+    display: flex;
+}
+
+.col-1{
+    flex: 1;
+}
+
+
+
+.msg-row{
+    display: flex;
+    align-items: center;
+    margin: 40px;
+}
+
+.msg-text{
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px 40px;
+    border-radius: 8px;
+    flex-basis: 70%;
+    font-weight: 300;
+}
+
+.msg-text h2{
+    font-weight: 400;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.msg-img{
+    width: 70px;
+    border-radius: 50%;
+    margin: 0 20px;
+}
+
+.msg-row2{
+    justify-content: flex-end;
+}
+
+.col-1 input{
+    border: 0;
+    outline: none;
+    padding: 20px 40px;
+    background: #3874c9;
+    color: #fff;
+    width: 82.5%;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+::placeholder{
+    color: #fff;
+}
