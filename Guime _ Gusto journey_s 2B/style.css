@@ -16,5 +16,26 @@ body{
 }
 .void{
    border: red;
-    position:fixed; left:460px ;top:550px
+    position:fixed; left:460px ;top:510px
+}
+.cu{
+   
+    font-size: 150%;
+
+}
+.amogus{
+    width: 15%;
+    position: fixed; left: 1230px; top: 630px;
+}
+.cp{
+    width:5%;
+    position: fixed; left: 1500px;top:800px
+}
+.patrocinador2{
+    width: 7%;
+    position: fixed; left:1350px; top:800px
+}
+.patrocinador3{
+    width:5%;
+    position: fixed; left:1230px; top:800px;
 }
