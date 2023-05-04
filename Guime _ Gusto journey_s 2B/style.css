@@ -1,0 +1,20 @@
+body{
+    background-color: #637B51;
+}
+
+.imagem-de-venda-do-boi{
+    position: fixed; left: 450px; top: 100px;
+    width: 40%;
+}
+
+.valor-do-boi{
+    position: fixed; left: 460px; top: 40px;
+}
+.sedex{
+    width: 15%;
+    position:fixed; left:1230px; top:550px
+}
+.void{
+   border: red;
+    position:fixed; left:460px ;top:550px
+}
