@@ -2,7 +2,7 @@
 
 .imagem-de-venda-do-boi{
     position: fixed; left: 550px; top: 100px;
-    width: 700px;
+    width: 700px; height: 390px;
 }
 
 .valor-do-boi{
@@ -34,4 +34,9 @@
     display: flex;
     width: 236px;
     height: 30px;
+}
+
+.kupizkano{
+    position: fixed; left: 1460px; bottom: 494px;
+    width: 1.5%;
 }
