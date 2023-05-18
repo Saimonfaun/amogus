@@ -40,3 +40,39 @@
     position: fixed; left: 1460px; bottom: 494px;
     width: 1.5%;
 }
+
+.valor-de-compra-boi{
+    position: fixed; left: 560px; bottom: 430px;
+    color: rgb(143, 0, 0);
+}
+
+.botao-de-comprar{
+    width: 15%;
+    position: fixed; left: 760px; bottom: 305px;
+}
+
+.caixadono{
+    position: fixed; left: 5px; top: 725px;
+    width: 40%;
+    height: 25vh;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+.dono-do-site{
+    position: fixed; left: 15px;
+    border-radius: 30%;
+}
+
+.nome-do-dono{
+    position: fixed; left: 250px; bottom: 190px;
+}
+
+.texto-do-dono{
+    font-size: 120%;
+    position: fixed; left: 250px; bottom: 190px;
+    margin: 0px; height:0px; width: 500px;
+}
